@@ -1,6 +1,6 @@
 {
   "name": "react-leaflet-with-many-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A leaflet map with many plugins",
   "main": "lib/MapComponent.js",
   "homepage": "https://github.com/mehmetalikuyucu/react-leaflet-with-many-plugins",

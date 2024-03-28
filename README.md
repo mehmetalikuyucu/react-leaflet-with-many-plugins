@@ -16,7 +16,7 @@ To use the Map Component in your project, follow these steps:
 2. Add the `MapContainer` component to your project:
 
     ```js
-    import MapContainer from 'MapContainer';
+    import MapContainer from 'react-leaflet-with-many-plugins';
     ```
 
 3. Use the `MapContainer` component in your code:
